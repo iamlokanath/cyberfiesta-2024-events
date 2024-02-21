@@ -26,9 +26,9 @@ const Event = () => {
             <p className="price">FIRST PRIZE: ₹1000</p>
             <br />
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
-              officiis voluptas esse excepturi nostrum modi, eius magnam quas?
-              Pariatur, nihil.
+              Join Cyber Fiesta's CSS Design Challenge! Showcase your
+              creativity, replicate topics with precision, and compete for
+              recognition with responsive designs.
             </p>
             <br />
             <p>
@@ -53,9 +53,8 @@ const Event = () => {
             <p className="price">FIRST PRIZE: ₹1000</p>
             <br />
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fuga
-              laudantium porro aliquid ex atque sit eum aspernatur veritatis
-              quaerat amet.
+              Join Cyber Fiesta's TECH JUNKIES challenge! Answer 25 questions in
+              30 mins, aiming for 20 marks to qualify. Interviews for winners.
             </p>
             <br />
             <p>
@@ -80,9 +79,9 @@ const Event = () => {
             <p className="price">FIRST PRIZE: ₹1000</p>
             <br />
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam
-              ullam distinctio, ipsa harum vel qui? Nobis animi vero minus
-              voluptate.
+              Join our Startup Hackathon for transformative innovation! Ideate,
+              code, collaborate, and compete to propel your startup idea with
+              mentorship.
             </p>
             <br />
             <p>
@@ -107,9 +106,9 @@ const Event = () => {
             <p className="price">FIRST PRIZE: ₹1000</p>
             <br />
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea
-              ducimus deserunt nisi saepe odio nulla consequatur illo impedit
-              doloremque eius.
+              Join Logic Wizard Event, Feb 22-23 at Govt. College of
+              Engineering, Kalahandi. Puzzles, challenges, and non-technical
+              competition to showcase logic skills!
             </p>
             <br />
             <p>
